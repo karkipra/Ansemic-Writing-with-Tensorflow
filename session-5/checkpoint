@@ -1,0 +1,6 @@
+model_checkpoint_path: "vaegan.ckpt-3000"
+all_model_checkpoint_paths: "vaegan.ckpt-2200"
+all_model_checkpoint_paths: "vaegan.ckpt-2400"
+all_model_checkpoint_paths: "vaegan.ckpt-2600"
+all_model_checkpoint_paths: "vaegan.ckpt-2800"
+all_model_checkpoint_paths: "vaegan.ckpt-3000"
