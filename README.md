@@ -28,10 +28,6 @@ $ source activate tensorflow
 (tensorflow)$ pip install --upgrade --ignore-installed $TF_BINARY_URL
 ````
 
-## Contribution
-
-Contributions are not accepted for this project.
-
 ## Credits and license
 
 + the main credits go to [Parag Mital][pkmital] and [Kadenze][kadenze], all materials are distributed under the Apache license v2.0 and the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license
