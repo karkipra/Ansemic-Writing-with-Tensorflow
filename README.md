@@ -1,4 +1,4 @@
-# Tensorflow Tutorials
+# Creative Applications of Deep Learning
 
 All my files for *Creative Applications of Deep Learning with Tensorflow*, an online course on [Kadenze][kadenze].
 
