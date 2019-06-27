@@ -1,10 +1,12 @@
 # Tensorflow Tutorials
 
-All my files for *Creative Applications of Deep Learning with Tensorflow*, an online course on [Kadenze][https://www.kadenze.com/].
+All my files for *Creative Applications of Deep Learning with Tensorflow*, an online course on [Kadenze][kadenze].
 
 ## Overview
 
-The Kadenze course "creative applications of deep learning in TensorFlow" is a great MOOC to learn the TensorFlow framework and manipulate fascinating neural network architectures, like variational autoencoders (VAE) or recurrent neural network (RNN) with LSTM cells. For me it has been a great opportunity to develop my burgeoning creative skills.
+The Kadenze course "creative applications of deep learning in TensorFlow" is a great MOOC to learn the TensorFlow framework and manipulate fascinating neural network architectures, which has been a great opportunity to develop my burgeoning creative skills.
+
+The following manifold has been generated during the course with the dataset of my choice ([latent space][fastforward-vae]):
 
 ![Galaxy Zoo manifold][galaxy-manifold]
 
@@ -35,11 +37,6 @@ Contributions are not accepted for this project.
 + the main credits go to [Parag Mital][pkmital] and [Kadenze][kadenze], all materials are distributed under the Apache license v2.0 and the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license
 + the assignments come from the [CADL GitHub repository][github-cadl], you can find in this repository amazing code, like a ready-to-use VAE/GAN net (strong computing power will be required to train it by yourself)
 + the course heavily relies on the [CelebFaces Attributes Dataset][mmlab-celeba]
-+ the picture of the [galaxy NGC 4536][wikimedia-n4536] used in the session 2 and 4 is credited to Adam Block/Mount Lemmon SkyCenter/University of Arizona and is distributed under the Creative Commons Attribution-ShareAlike 3.0 United States license, the picture has been transformed by the creative processes of the course
-+ I have used the [Galaxy Zoo data][kaggle-galaxy-zoo] published on the Kaggle challenge web page for the first assignments (see further references to the Galaxy Zoo behind the link)
-+ the code of the project is totally based on the project [write-rnn-tensorflow][github-write-rnn] by the great [Hardmaru][twitter-hardmaru], the net is trained on the [IAM On-Line Handwriting Database][iam-handwriting-database], freely available for non-commercial use once registered
-+ the project has been inspired by the artwork [sand-glyphs][github-sand-glyphs], by the way, I highly recommend to have a look at the other creations of [Anders Hoff][twitter-incovergent] (alias Inconvergent) and you will for sure spend a good time reading his [blog][inconvergent]
-+ the picture of the [Pleiades][wikimedia-pleiades] is in the public domain and authored by NASA, ESA, AURA/Caltech, Palomar Observatory
 
 [fastforward-vae]: http://blog.fastforwardlabs.com/post/148842796218/introducing-variational-autoencoders-in-prose-and
 [wikipedia-asemic]: https://en.wikipedia.org/wiki/Asemic_writing
