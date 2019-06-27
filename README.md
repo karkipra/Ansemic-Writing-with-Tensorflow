@@ -40,23 +40,11 @@ Contributions are not accepted for this project.
 
 [fastforward-vae]: http://blog.fastforwardlabs.com/post/148842796218/introducing-variational-autoencoders-in-prose-and
 [wikipedia-asemic]: https://en.wikipedia.org/wiki/Asemic_writing
-
 [cadl-install]: https://github.com/pkmital/CADL#what-is-notebook
 [continuum-download]: https://www.continuum.io/downloads#_macosx
 [pkmital]: https://github.com/pkmital
 [kadenze]: https://www.kadenze.com/
-
 [github-cadl]: https://github.com/pkmital/CADL
-[mmlab-celeba]: http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
-[wikimedia-n4536]: https://commons.wikimedia.org/wiki/File:N4536s-crop.jpg
-[kaggle-galaxy-zoo]: https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/data
-[github-write-rnn]: https://github.com/hardmaru/write-rnn-tensorflow
-[twitter-hardmaru]: https://twitter.com/hardmaru
-[iam-handwriting-database]: http://www.fki.inf.unibe.ch/databases/iam-on-line-handwriting-database
-[github-sand-glyphs]: https://github.com/inconvergent/sand-glyphs
-[twitter-incovergent]: https://twitter.com/inconvergent
-[inconvergent]: http://inconvergent.net/
-[wikimedia-pleiades]: https://en.wikipedia.org/wiki/File:Pleiades_large.jpg
 
 [galaxy-manifold]: /assets/img/manifold-galaxy.png "Galaxy Zoo manifold"
 [glyphs-rnn]: /assets/img/glyphs-rnn.png "Generative hand writing"
