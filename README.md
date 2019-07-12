@@ -1,4 +1,4 @@
-# Creative Applications of Deep Learning
+# Ansemic Writing with Tensorflow
 
 All my files for *Creative Applications of Deep Learning with Tensorflow*, an online course on [Kadenze][kadenze].
 
@@ -32,7 +32,7 @@ $ source activate tensorflow
 
 + the main credits go to [Parag Mital][pkmital] and [Kadenze][kadenze], all materials are distributed under the Apache license v2.0 and the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license
 + the assignments come from the [CADL GitHub repository][github-cadl], you can find in this repository amazing code, like a ready-to-use VAE/GAN net (strong computing power will be required to train it by yourself)
-+ the course heavily relies on the [CelebFaces Attributes Dataset][mmlab-celeba]
++ the course heavily relies on the [CelebFaces Attributes Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 [fastforward-vae]: http://blog.fastforwardlabs.com/post/148842796218/introducing-variational-autoencoders-in-prose-and
 [wikipedia-asemic]: https://en.wikipedia.org/wiki/Asemic_writing
